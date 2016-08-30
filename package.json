@@ -1,0 +1,24 @@
+{
+  "name": "atm3-postpackager-guide-genhtml",
+  "version": "0.0.1",
+  "description": "the atm plugin for react-guide to generate html ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femxd/atm3-postpackager-guide-genhtml.git"
+  },
+  "keywords": [
+    "atm3",
+    "react-guide",
+    "html"
+  ],
+  "author": "allanfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/femxd/atm3-postpackager-guide-genhtml/issues"
+  },
+  "homepage": "https://github.com/femxd/atm3-postpackager-guide-genhtml#readme"
+}
